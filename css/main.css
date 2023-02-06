@@ -195,7 +195,7 @@ body {
 /* Start Landing */
 .landing {
     min-height: 100vh;
-    background-image: url(https://www.pexels.com/photo/brown-mountains-2559941/);
+    background-image: url(../images/img-0.jpg);
     background-size: cover;
     position: relative;
 }
